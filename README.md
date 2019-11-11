@@ -1,5 +1,5 @@
-EDIT, DELETE, ADD
 
+## Edit, Add, Delete
 Very basic java application for Edit, Delete and Add.
 
 ### Description
