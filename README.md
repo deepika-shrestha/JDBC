@@ -1,9 +1,9 @@
 
 ## Edit, Add, Delete
-Very basic java application for Edit, Delete and Add.
+Very basic java application for Insert, Update and Delete.
 
 ### Description
-
+Using JDBC(Java Databaxe Connectivity) to insert, update and delete data into MySQL database.
 
 ### Running the application
 #### NetBeans Instructions
